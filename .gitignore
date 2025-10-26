@@ -1,0 +1,16 @@
+﻿# Large datasets
+data/*.csv
+*.csv
+
+# Model files
+saved_models/
+
+# Python
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
